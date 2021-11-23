@@ -1,9 +1,9 @@
-#Reactive Programming Demo Using Spring WebFlux
+# Reactive Programming Demo Using Spring WebFlux
 
-##Overview
+## Overview
 This Spring Boot application demonstrates reactive programming through the use of Spring WebFlux to transmit server-sent events to a subscriber.
 
-##Running the Application
+## Running the Application
 
 1. Build the application artifact by running the Gradle build process.
 
